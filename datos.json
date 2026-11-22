@@ -1,0 +1,120 @@
+{
+ "apps": [
+  {
+   "id": "tarot",
+   "progress": 55,
+   "image": "",
+   "title": "App Tarot Automático",
+   "icon": "🔮",
+   "desc": "Lecturas de tarot instantáneas potenciadas por IA. Interpreta tiradas con análisis simbólico profundo.",
+   "color": "gold",
+   "btn": "review",
+   "btnText": "REVISAR DOC",
+   "showAlert": true
+  },
+  {
+   "id": "astro",
+   "progress": 70,
+   "image": "",
+   "title": "App Consulta Astro",
+   "icon": "⭐",
+   "desc": "Consulta tu carta natal, tránsitos y pronósticos astrológicos con motor de cálculo propio.",
+   "color": "blue",
+   "btn": "access",
+   "btnText": "ACCEDER",
+   "showAlert": true
+  },
+  {
+   "id": "ventas",
+   "progress": 100,
+   "image": "",
+   "title": "App Automatización de Ventas",
+   "icon": "📈",
+   "desc": "CRM inteligente con flujos de ventas automatizados, seguimiento de leads y reportes en tiempo real.",
+   "color": "cyan",
+   "btn": "review",
+   "btnText": "REVISAR DOC",
+   "showAlert": true
+  },
+  {
+   "id": "hogar",
+   "progress": 100,
+   "image": "",
+   "title": "App Digitaliza tu Hogar",
+   "icon": "🏠",
+   "desc": "Plataforma IoT para gestionar dispositivos inteligentes, automatizar rutinas y monitorear tu hogar.",
+   "color": "gold",
+   "btn": "explore",
+   "btnText": "EXPLORAR",
+   "showAlert": true
+  },
+  {
+   "id": "it",
+   "progress": 100,
+   "image": "",
+   "title": "App Ecosistema IT",
+   "icon": "💻",
+   "desc": "Suite completa para gestión de infraestructura, monitoreo de servidores y soporte técnico centralizado.",
+   "color": "blue",
+   "btn": "review",
+   "btnText": "REVISAR DOC",
+   "showAlert": true
+  },
+  {
+   "id": "trading",
+   "progress": 100,
+   "image": "",
+   "title": "App Trading Automático",
+   "icon": "📊",
+   "desc": "Bot de trading con estrategias de IA, análisis técnico y ejecución automática en múltiples exchanges.",
+   "color": "cyan",
+   "btn": "explore",
+   "btnText": "EXPLORAR",
+   "showAlert": true
+  },
+  {
+   "id": "ShercoIT",
+   "icon": "🚀",
+   "title": "ShercoIT",
+   "desc": "ITSM de gestión informática",
+   "color": "gold",
+   "btnText": "EXPLORAR",
+   "btn": "explore",
+   "progress": 99,
+   "image": "",
+   "showAlert": true
+  },
+  {
+   "id": "Scan2tipx",
+   "icon": "🚀",
+   "title": "Sistema de pagos P2B",
+   "desc": "",
+   "color": "blue",
+   "btnText": "EXPLORAR",
+   "btn": "explore",
+   "progress": 85,
+   "image": "",
+   "showAlert": true
+  }
+ ],
+ "settings": {
+  "social": {
+   "email": "contacto@forzinova.com",
+   "wa": "https://wa.me/",
+   "ig": "https://instagram.com/forzinova",
+   "tk": "https://tiktok.com/@forzinova",
+   "tw": "https://x.com/forzinova",
+   "fb": "https://facebook.com/forzinova",
+   "yt": "https://youtube.com/@forzinova"
+  },
+  "donations": {
+   "paypal": "https://paypal.me/forzinova",
+   "gofundme": "https://gofundme.com/forzinova",
+   "binance": "Configura en el panel"
+  },
+  "images": {
+   "logoUrl": "",
+   "heroBgUrl": ""
+  }
+ }
+}
