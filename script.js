@@ -518,7 +518,7 @@ try { adminToken = sessionStorage.getItem('fnAdminToken'); } catch(e) {}
 function apiBase() {
   const h = window.location.hostname;
   if (h === 'localhost' && window.location.port !== '3000') return 'http://localhost:3000';
-  if (h === 'forzinova.com' || h === 'www.forzinova.com') return 'https://api.forzinova.com';
+  if (h === 'forzinova.com' || h === 'www.forzinova.com') return 'https://apidev.forzinova.com';
   return '';
 }
 
